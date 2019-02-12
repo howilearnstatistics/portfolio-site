@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = "http://dut.udn.vn"
   location = "Vietnam"
   date_start = "2017-09-15"
-  date_end = "2018-1-18"
+  date_end = "2018-01-18"
   description = """
   * Assisted in developing software (in Python) to simulate behavior of large power grid with functions to calculate load voltage, current, power consumption, short circuit simulation and so forth
   * Conducted experiments and guided college juniors with safety procedure when working with high voltage equipments 
@@ -35,9 +35,9 @@ date_format = "January 2006"
   title = "Intern"
   company = "Vietnam Electricity"
   company_url = "https://en.evn.com.vn"
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Vietnam"
+  date_start = "2017-06-01"
+  date_end = "2017-08-25"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
