@@ -38,6 +38,9 @@ date_format = "January 2006"
   location = "Vietnam"
   date_start = "2017-06-01"
   date_end = "2017-08-25"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  * Developed embedded software (in C) for air quality monitoring device that sends data via cellular network in real time 
+  * Assisted in building a database with MySQL to store sensor data  
+  """
 
 +++
