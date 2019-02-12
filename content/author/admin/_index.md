@@ -48,7 +48,7 @@ interests = [
   link = "#contact"  # For a direct email link, use "mailto:nghiale5991@gmail.com".
 
 [[social]]
-  icon = "linkedinr"
+  icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/nghiale5991"
 
