@@ -30,7 +30,7 @@ weight = 7
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "SQL Querry"
+  name = "SQL Query"
   
   
 [[feature]]
